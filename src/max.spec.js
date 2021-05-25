@@ -6,7 +6,7 @@ describe('Max', () => {
 		expect(maxm([1,2,3,4])).toEqual(4);
 	});
 
-	it('Max of array [] is null', () => {
+	it('Max of array [] is -Infinity', () => {
 		expect(maxm([])).toEqual(-Infinity);
 	});
 
