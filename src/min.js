@@ -3,3 +3,4 @@ const minm = (arr) => {
 }
 
 module.exports = minm;
+
